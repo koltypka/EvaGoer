@@ -1,20 +1,17 @@
 package main
 
 import (
-	"log";
-	"github.com/Syfaro/telegram-bot-api";
-	kolgram "github.com/koltypka/kolgram";
-	//"kolgram";
-	//"SQL";
-	//"yamlReader";
-	//"logic"
+    kolgram "github.com/koltypka/kolgram";
+    //"SQL";
+    //"yamlReader";
+    //"logic"
 )
 
 func main() {
-	//parametrs := yamlReader.GetYamlFile('parameters.yaml')
+    //parametrs := yamlReader.GetYamlFile('parameters.yaml')
 
-	//connection := SQL.GetConnection()
+    //connection := SQL.GetConnection()
 
-	//EvaGoer := kolgram.GetConnection(parametrs['token'])
+    //EvaGoer := kolgram.GetConnection(parametrs['token'])
 
 }
